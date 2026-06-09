@@ -2,7 +2,7 @@
 
 This free, beginner-friendly guide introduces the fundamentals of FFF (or FDM) 3D printing.  It combines theory with practical advice to help new users understand how filament and extrusion-based 3D printers work.  By understanding both the strengths and limitations of 3D printing technology, beginners can use this tool more effectively and make great prints.
 
-This educational presentation is divided into three sections:
+There are three sections:
 - **Part 1:**  How the printing process works, along with its advantages, limitations, and common challenges.  This is the largest section and contains most of the core material.
 - **Part 2:**  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.
 - **Part 3:**  A few short Physics lessons that use 3D printing as a practical and engating teaching tool.
