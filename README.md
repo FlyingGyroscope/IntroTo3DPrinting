@@ -4,6 +4,8 @@ A free and beginner-friendly educational presentation covering the fundamentals 
 - Part 2: Examples, critical thinking, and design.
 - Part 3: Quick physics lessons with a 3D printer.
 
+You can download the slides in the [Slides](Slides) folder.
+
 ## *Caveats*
 This guide is tailored to FFF printers because that is what I know.  Similarly, I used PrusaSlicer for several examples and screenshots, but the underlying concepts and workflow still apply to other slicing software.
 
