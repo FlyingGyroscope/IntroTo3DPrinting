@@ -1,13 +1,11 @@
-## *An Introduction to 3D Printing*
+# *An Introduction to 3D Printing*
 
-This free, beginner-friendly guide introduces the fundamentals of FFF (or FDM) 3D printing.  It combines theory with practical advice to help new users understand how filament and extrusion-based 3D printers work.  By understanding both the strengths and limitations of 3D printing technology, beginners can use this tool more effectively and make great prints.
-
-There are three sections:
+This free, beginner-friendly guide introduces the fundamentals of FFF (or FDM) 3D printing.  It combines theory with practical advice to help new users understand how filament and extrusion-based 3D printers work.  By understanding both the strengths and weaknesses of 3D printing technology, beginners can use 3D printing technology more effectively and make great prints.  There are three sections:
 - **Part 1:**  How the printing process works, along with its advantages, limitations, and common challenges.  This is the largest section and contains most of the core material.
 - **Part 2:**  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.
-- **Part 3:**  A few short Physics lessons that use 3D printing as a practical and engating teaching tool.
+- **Part 3:**  A few short Physics lessons that use 3D printing as a teaching tool.
 
-Several examples and screenshots use PrusaSlicer because that is the slicer I am most familiar with.  However, the underlying concepts and workflow apply to other slicing software.  
+I tried to avoid favoring any single company so that this guide can apply broadly to all modern FFF printers.  I did create several examples and screenshots with PrusaSlicer because that is the slicer I am most familiar with.  However, the underlying concepts and workflow apply to other slicing software.
 
 Download the slides in the [Slides](Slides) folder.  
 
