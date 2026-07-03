@@ -24,7 +24,7 @@ All content, slides, and code in this repository that are my own original creati
 
 This repository contains mixed-media elements that are not covered by the Creative Commons license above:
 
-- Screenshots: Limited screenshots from educational sources and blogs are included strictly for instructional illustration and commentary.
+- Screenshots: Limited screenshots from YouTube, educational sources, and blogs are included strictly for instructional illustration and commentary.
 - Memes and Pop Culture Media: Limited images and memes are used for humor and engagement.
 
 All third-party images, logos, trademarks, and screenshots remain the sole property of their respective copyright holders.  They are included here under Fair Use doctrines for transformative, non-commercial, educational purposes.
