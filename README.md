@@ -7,7 +7,7 @@ This free, beginner-friendly guide introduces the fundamentals of FFF (or FDM) 3
 
 I tried to avoid favoring any single company so that this guide can apply broadly to all modern FFF printers.  I did create several examples and screenshots with PrusaSlicer because that is the slicer I am most familiar with.  However, the underlying concepts and workflow apply to other slicing software.
 
-Download the slides in the [Slides folder](Slides).  I published `PDF` files to maximize compatibility, but they do not support embedded videos or animated gifs.  You will need to click the hyperlinks to view all of the material and get the full experience.
+Download the slides in the [Slides folder](Slides).  I published `PDF` files to maximize compatibility, but they do not support embedded videos or animated gifs.  To view all of the material and get the full experience, you need to click the hyperlinks.
 
 ## *Not Included ...*
 This is not a complete guide to all things 3D printing.  It does not cover safety, setup, tuning, troubleshooting, how to change a nozzle, etc.  For help setting up a new printer, consult your manufacturer's documentation.  
