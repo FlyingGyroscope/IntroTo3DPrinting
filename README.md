@@ -9,12 +9,12 @@ I tried to avoid favoring any single company so that this guide can apply broadl
 
 Download the slides in the [Slides folder](Slides).  I published `PDF` files to maximize compatibility, but they do not support embedded videos or animated gifs.  To view all of the material and get the full experience, you need to click the hyperlinks.
 
-## *Not Included ...*
+# *Not Included ...*
 This is not a complete guide to all things 3D printing.  It does not cover safety, setup, tuning, troubleshooting, how to change a nozzle, etc.  For help setting up a new printer, consult your manufacturer's documentation.  
 
 In addition to this guide, I recommend participating in the 3D printing community.  It is a great place to ask questions, share ideas, find inspiration, and explore new ideas.  I got my start in the hobby watching education-focused, 3D printing channels on YouTube. 
 
-## *License*
+# *License*
 
 **Original Content**
 
