@@ -1,6 +1,6 @@
 # *An Introduction to 3D Printing*
 
-This free, beginner-friendly guide investigates how FFF (or FDM) printers work.  3D printers are great, but every tool and material has limitations.  By pointing out the strengths and weaknesses of 3D printing technology, beginners can use 3D printing technology more effectively and make great prints.  There are three sections:
+This free, beginner-friendly guide investigates how FFF (or FDM) printers work.  3D printers are great, but every tool and material has limitations.  By pointing out the strengths and weaknesses, beginners can use 3D printing technology more effectively and make great prints.  There are three sections:
 - **Part 1:**  How the printing process works, along with its advantages, limitations, and common challenges.  This is the largest section and contains most of the core material.
 - **Part 2:**  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.
 - **Part 3:**  A few short Physics lessons that use 3D printing as a teaching tool.
