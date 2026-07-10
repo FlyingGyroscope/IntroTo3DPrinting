@@ -8,12 +8,12 @@ I tried to avoid favoring any single company so that this guide can apply broadl
 
 # *Slides*
 
-I made a lot of slides and grouped them into three class sessions.  However, I often use a small subset to fit the presentation into an hour.
-- **Part 1:**  How the printing process works, along with its advantages, limitations, and common challenges.  This is the largest section and contains most of the core material.  Allow an hour to cover everything, and add more time for questions and discussion.
-- **Part 2:**  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.  Allow 45 minutes to cover everything.  Since part 2 is about thinking and discussing, you should plan for extra time.
-- **Part 3:**  A few Physics lessons that use 3D printing as a teaching tool.  Allow 30 minutes to cover everything, and add more time if you have physical demos.
+I made a lot of slides and grouped them into three class sessions.  However, I often use a small subset of slides to fit the presentation into an hour.
+- *Part 1:*  How the printing process works, limitations, advantages, and dimensional accuracy.  This is the largest section and contains most of the core material.  Allow an hour to cover everything, and add more time for questions and discussion.
+- *Part 2:*  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.  Allow 45 minutes to cover everything.  Since part 2 is about thinking and discussing you should plan for extra time.
+- *Part 3:*  A few Physics lessons that use 3D printing as a teaching tool.  Allow 30 minutes to cover everything, and add more time if you have physical demos.
 
-Download the slides in the [Slides folder](Slides).  I published PDF files, but they do not support embedded videos or animated gifs.  Click on the hyperlinks to view animations/videos and get the full experience.
+Download the slides in the [Slides folder](Slides).  I published PDF files, but they do not support embedded videos or animated gifs.  Click on the hyperlinks to view animations and get the full experience.
 
 # *FAQ*
 
@@ -21,15 +21,15 @@ What is the correct number of 3D printers? n+1.
 
 What is the purpose of a 3D printer?  Making parts for more 3D printers.
 
-How do you know if someone has a 3D printer?  Don't worry, they'll tell you.  
+How do you know if someone has a 3D printer?  Don't worry, they'll tell you about it.  
 
 # *License*
 
-**Original Content**
+*Original Content*
 
 All content, illustrations, and slides in this repository that are my own original creation are licensed under the Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) license.  You are free to share and adapt this material for non-commercial educational purposes, provided you give appropriate credit.  See [LICENSE](LICENSE) for details.
 
-**Third-Party Media & Fair Use Notice**
+*Third-Party Media & Fair Use Notice*
 
 This repository contains mixed-media elements that are not covered by the Creative Commons license above:
 
