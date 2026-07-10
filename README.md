@@ -11,7 +11,7 @@ I tried to avoid favoring any single company so that this guide can apply broadl
 I made a lot of slides and grouped them into three class sessions.  However, I often use a small subset of slides to fit the presentation into an hour.
 - *Part 1:*  How the printing process works, limitations, advantages, and dimensional accuracy.  This is the largest section and contains most of the core material.  Allow an hour to cover everything, and add more time for questions and discussion.
 - *Part 2:*  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.  Allow 45 minutes to cover everything.  Since part 2 is about thinking and discussing you should plan for extra time.
-- *Part 3:*  A few Physics lessons that use 3D printing as a teaching tool.  Allow 30 minutes to cover everything, and add more time if you have physical demos.
+- *Part 3:*  A few Physics lessons that use 3D printers as a teaching tool.  Allow 30 minutes to cover everything, and add more time if you have physical demos.
 
 Download the slides in the [Slides folder](Slides).  I published PDF files, but they do not support embedded videos or animated gifs.  Click on the hyperlinks to view animations and get the full experience.
 
