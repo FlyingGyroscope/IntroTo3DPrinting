@@ -4,13 +4,13 @@ This instructional guide investigates how FFF (or FDM) printers work.  3D printe
 
 This guide was written for students learning to use a 3D printer in a classroom setting.  The focus is on using a 3D printer, and it assumes you have a working printer with good slicer profiles.  It does not cover managing and troubleshooting the printer itself.  
 
-I tried to avoid favoring any single company so that this guide can apply broadly to all modern FFF printers.  I did create several examples and screenshots with PrusaSlicer because that is the slicer I am most familiar with.  However, the underlying concepts and workflow apply to other slicing software.
+I tried to make this a general guide that applies to a broad range of modern FFF printers.  I highlighted PrusaSlicer in several examples because I know it well, but the underlying concepts and workflow apply to any slicing software.
 
 # *Slides*
 
-I made a lot of slides and grouped them into three class sessions.  However, I often use a small subset of slides to fit the presentation into an hour.
-- *Part 1:*  How the printing process works, limitations, advantages, and dimensional accuracy.  This is the largest section and contains most of the core material.  Allow an hour to cover everything, and add more time for questions and discussion.
-- *Part 2:*  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.  Allow 45 minutes to cover everything.  Since part 2 is about thinking and discussing you should plan for extra time.
+I made a lot of slides and grouped them into three class sessions.  However, I often use a small subset of slides in order to fit the presentation into an hour.
+- *Part 1:*  How the printing process works, limitations, advantages, and dimensional accuracy.  This is the largest section and contains most of the core material.  Allow an hour to present the material, and add more time for questions and discussion.
+- *Part 2:*  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.  Allow 45 minutes to present the material, but it is important to add extra time to discuss questions and answers.  (That is the whole point of Part 2.)
 - *Part 3:*  A few Physics lessons that use 3D printers as a teaching tool.  Allow 30 minutes to cover everything, and add more time if you have physical demos.
 
 Download the slides in the [Slides folder](Slides).  I published PDF files, but they do not support embedded videos or animated gifs.  Click on the hyperlinks to view animations and get the full experience.
