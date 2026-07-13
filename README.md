@@ -1,10 +1,12 @@
 # *An Introduction to 3D Printing*
 
-This instructional guide investigates how FFF (or FDM™) printers work.  3D printers are great, but every tool and material has limitations.  By pointing out  strengths and weaknesses, beginners can use 3D printing technology more effectively and make great prints.
+This instructional guide investigates how FFF (or FDM™) printers work.  3D printers are great, but every tool and material has limitations.  By exploring strengths and weaknesses, beginners can use 3D printing technology more effectively and make great prints.
+
+This guide is intended for students learning to use 3D printers in a classroom setting.  It assumes that a teacher is responsible for setting up, managing, and troubleshooting the 3D printer, so those topics are not covered in detail.  
 
 I tried to make this a general guide that applies to a broad range of modern FFF printers.  I highlighted PrusaSlicer in several examples because I know it well, but the underlying concepts and workflow apply to any slicing software.
- 
-This guide was written for students learning to use a 3D printer in a classroom setting, and it assumes a teacher will setup, manage, and troubleshoot the printer.  If you need more help, start with documentation and support from the manufacturer.  There are also plenty of other free guides and YouTube tutorials.
+
+If you need more help, start with documentation and support from the manufacturer.  There are also plenty of free guides and YouTube tutorials.
 - [Basics of 3D printing](https://www.prusa3d.com/page/basics-of-3d-printing-with-josef-prusa_490/) by Josef Prusa.
 - [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/).
 - [OrcaSlicer Calibration Walkthrough](https://www.orcaslicer.com/wiki/guides/calibration_guide).
