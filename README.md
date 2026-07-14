@@ -1,8 +1,8 @@
 # *An Introduction to 3D Printing*
 
-This instructional guide investigates how FFF (or FDM™) printers work.  3D printers are great, but every tool and material has limitations.  By exploring strengths and weaknesses, beginners can use 3D printing technology more effectively and make great prints.
+Learn how FFF (or FDM™) printers work.  3D printers are great, but every tool and material has limitations.  By exploring the process, strengths, and weaknesses, beginners can use 3D printing technology more effectively and make great prints.
 
-This guide is intended for students learning to use 3D printers in a classroom setting.  It assumes that a teacher is responsible for setting up, managing, and troubleshooting the 3D printer, so those topics are not covered in detail.  
+This is a training guide for students learning to use 3D printers in a classroom setting.  It assumes that a teacher is responsible for setting up, managing, and troubleshooting the 3D printer, so those topics are not covered in detail.
 
 I tried to make this a general guide that applies to a broad range of modern FFF printers.  I highlighted PrusaSlicer in several examples because I know it well, but the underlying concepts and workflow apply to any slicing software.
 
