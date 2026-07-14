@@ -22,11 +22,22 @@ Download the slides in the [Slides folder](Slides).  I published PDF files, but 
 
 # *FAQ*
 
-What is the correct number of 3D printers? n+1.
+*What is the correct number of 3D printers?*<br>n+1.
 
-What is the purpose of a 3D printer?  Making parts for more 3D printers.
+*What is the purpose of a 3D printer?*  
+Making parts for more 3D printers.
 
-How do you know if someone has a 3D printer?  Don't worry, they'll tell you about it.  
+*How do you know if someone has a 3D printer?*  
+Don't worry, they'll tell you about it.  
+
+*How do I tune my printer or slicer profile?*  
+Check out these guides from the community: [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/), [OrcaSlicer Calibration Walkthrough](https://www.orcaslicer.com/wiki/guides/calibration_guide).
+
+*Which printer should I get?*  
+Ask yourself this question:  Do you want to tinker, or do you just want to make things?  Open-source and ecosystems have pros and cons.  In my opinion, you should get the most reliable printer you can afford.  Do not get sucked into marketing, and do not obsess over spec sheets and speeds.  Top brands give you excellent slicer profiles out of the box, and this is very highly recommended for beginners.
+
+*How do I troubleshoot my printer?*  
+Patience and experience.  Try to narrow down the problem to:  mechanics/motion system, extrusion, temperature, calibration, and slicing.  Isolate and test one thing at a time.  I learned a lot by assembling my own printer.  
 
 # *License*
 
