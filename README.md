@@ -34,10 +34,10 @@ Don't worry, they'll tell you about it.
 Check out these guides from the community: [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/), [OrcaSlicer Calibration Walkthrough](https://www.orcaslicer.com/wiki/guides/calibration_guide).
 
 *Which printer should I get?*  
-Ask yourself this question:  Do you want to tinker, or do you just want to make things?  Open-source and ecosystems have pros and cons.  In my opinion, you should get the most reliable printer you can afford.  Do not get sucked into marketing, and do not obsess over spec sheets and speeds.  Top brands give you excellent slicer profiles out of the box, and this is very highly recommended for beginners.
+In my opinion, you should get the most reliable printer you can afford.  Do not get sucked into marketing, and do not obsess over speeds and spec sheets.  Do not overlook ease-of-use features.  Top brands give you excellent slicer profiles out of the box, and this is very highly recommended for beginners.
 
 *How do I troubleshoot my printer?*  
-Patience and experience.  Try to narrow down the problem to:  mechanics/motion system, extrusion, temperature, calibration, and slicing.  Isolate and test one thing at a time.  I learned a lot by assembling my own printer.  
+Patience and experience.  Narrow down the problem to:  mechanics/motion system, extrusion, temperature, calibration, and slicing.  Isolate and test one thing at a time.  I learned a lot by assembling my own printer.  
 
 # *License*
 
