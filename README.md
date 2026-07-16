@@ -13,7 +13,7 @@ If you need more help, start with documentation and support from the manufacture
 
 Filament and extrusion-based additive manufacturing.  FFF (fused filament fabrication).  FDM™ (fused deposition modeling).  Pushing plastic.
 
-This guide breaks down the process behind FFF printing, though some concepts apply to all 3D printing.  It should apply to a broad range of printers.  
+This guide breaks down the process behind FFF printing, though some concepts will apply 3D printing in general.
 
 # *Slides*
 
