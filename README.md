@@ -11,7 +11,7 @@ If you need more help, start with documentation and support from the manufacture
 
 # *What Kind of 3D Printing*
 
-Filament and extrusion-based printing.  FFF (fused filament fabrication).  FDM™ (fused deposition modeling).  Pushing plastic.  
+Filament and extrusion-based additive manufacturing.  FFF (fused filament fabrication).  FDM™ (fused deposition modeling).  Pushing plastic.
 
 This guide breaks down the process behind FFF printing, though some concepts apply to all 3D printing.  It should apply to a broad range of printers.  
 
