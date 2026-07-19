@@ -41,7 +41,10 @@ Check out these guides from the community: [Ellis' Print Tuning Guide](https://e
 In my opinion, you should get the most reliable printer you can afford.  Do not get sucked into marketing, do not obsess over speeds and spec sheets, and do not overlook ease-of-use features.  Top brands give you excellent slicer profiles out of the box, and this is very highly recommended for beginners.
 
 *How do I troubleshoot my printer?*  
-Patience and experience.  Narrow down the problem to:  mechanics/motion system, extrusion, temperature, calibration, and slicing.  Isolate and test one thing at a time.  I learned a lot by assembling my own printer.  
+Patience and experience.  Narrow down the problem to:  mechanics/motion system, extrusion, temperature, calibration, and slicing.  Isolate and test one thing at a time.  I learned a lot by assembling my own printer.
+
+*How do I make custom designs?*  
+Features and software constantly change, but I appreciate this video by Maker's Muse that compares free CAD (computer aided design) software: [I tested them all](https://www.youtube.com/watch?v=J--QVhGheP4) and a follow-up video [Was I unfair to FreeCAD](https://www.youtube.com/watch?v=p8Pk1ayx6LQ).  Pick a CAD program, and bring enough patience to get over the learning curve.  I started and stopped several times in my journey.  I was only successful when I had an exciting project motivating me to continue.  I now prefer the technical capabilities of parametric modeling, and found the Product Design Online tutorials very helpful: [Learn Fusion 360 in 30 Days Playlist](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr).  
 
 # *License*
 
@@ -53,7 +56,7 @@ All content, illustrations, and slides in this repository that are my own origin
 
 This repository contains mixed-media elements that are not covered by the Creative Commons license above:
 
-- Screenshots: Limited screenshots from YouTube, educational sources, and blogs are included for instructional illustration and commentary.
-- Memes and Pop Culture Media: Limited images and memes are used for humor and engagement.
+- Screenshots: Limited screenshots from YouTube, educational sources and other guides, and blogs are included for instructional illustration and commentary.
+- Memes and Pop Culture Media: Limited images and memes are used for humor and engagement.  
 
 All third-party images, logos, trademarks, and screenshots remain the sole property of their respective copyright holders.
