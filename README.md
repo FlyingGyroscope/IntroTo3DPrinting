@@ -4,27 +4,26 @@
 
 This is a training guide for students learning to use 3D printers in a classroom setting.  It assumes that a teacher is responsible for setting up, managing, and troubleshooting the 3D printer, so those topics are not covered in detail.
 
-I shared a number of designs referenced in examples.  You can download them in the [3D Models folder](3D_Models).  
-
 If you need more help, start with documentation and support from the manufacturer.  There are also plenty of free guides and YouTube tutorials.
 - [Basics of 3D printing](https://www.prusa3d.com/page/basics-of-3d-printing-with-josef-prusa_490/) by Josef Prusa.
-- [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/).
-- [OrcaSlicer Calibration Walkthrough](https://www.orcaslicer.com/wiki/guides/calibration_guide).
+- [Beginner 3D Printing Guide](https://www.youtube.com/watch?v=B84CgaPdixc) by CNC Kitchen (Stefan).
+- [Everything I know about 3D printing](https://www.youtube.com/watch?v=gPW_mitgosw) by Alexandre Chappel.
 
-# *What Kind of 3D Printing*
+# *What Kind of 3D Printing?*
 
-Filament and extrusion-based additive manufacturing.  FFF (fused filament fabrication).  FDM™ (fused deposition modeling).  Pushing plastic.
-
-This guide breaks down the process behind FFF printing, though some concepts apply 3D printing in general.
+Filament and extrusion-based additive manufacturing.  FFF (fused filament fabrication).  FDM™ (fused deposition modeling).  Pushing plastic.  This guide breaks down the process behind *FFF* printing, though some concepts apply 3D printing in general.
 
 # *Slides*
 
+Download the slides in the [Slides folder](Slides), or use the links to individual slides below.  Also, you can download the 3D files used in several examples in the [3D Models folder](3D_Models).
+
 I made a lot of slides and grouped them into three class sessions.  However, I often use a small subset of slides in order to fit the presentation into an hour.
+
 - [Part 1](Slides/Part%201.pdf).  3D printing [process](Slides/Fundamentals%20Part%201%20Process.pdf), [limitations](Slides/Fundamentals%20Part%202%20Limitations.pdf), [dimensional accuracy](Slides/Fundamentals%20Part%203%20Dimensional%20Accuracy.pdf), and [advantages](Slides/Fundamentals%20Part%204%20Advantages.pdf).  This is the largest section and contains most of the core material.  Each topic is available separately as a "Fundamentals" mini lesson.
 - [Part 2](Slides/Part%202.pdf).  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.
 - [Part 3](Slides/Part%203.pdf).  A few Physics lessons that use 3D printers as a teaching tool.
 
-Download the slides in the [Slides folder](Slides).  I published PDF files, but they do not support embedded videos or animated gifs.  Click on the hyperlinks to view animations and get the full experience.
+I published PDF files to maximize compatibility and limit file size, but they have a few limitations.  They do not support embedded videos or animated gifs, so you need to click on the hyperlinks to get the full experience.  Also, the PDF format shows the entire slide at once, which means you cannot pause after questions discuss and deliberate.
 
 # *FAQ*
 
@@ -37,16 +36,16 @@ Making parts for more 3D printers.
 Don't worry, they'll tell you about it.  
 
 *How do I tune my printer or slicer profile?*  
-Check out these guides from the community: [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/), [OrcaSlicer Calibration Walkthrough](https://www.orcaslicer.com/wiki/guides/calibration_guide).
+Check out these guides from the community:  [Ellis' Print Tuning Guide](https://ellis3dp.com/Print-Tuning-Guide/), and [OrcaSlicer Calibration Walkthrough](https://www.orcaslicer.com/wiki/guides/calibration_guide).
 
 *Which printer should I get?*  
-In my opinion, you should get the most reliable printer you can afford.  Do not get sucked into marketing, do not obsess over speeds and spec sheets, and do not overlook ease-of-use features.  Top brands give you excellent slicer profiles out of the box, and this is very highly recommended for beginners.
+In my opinion, you should get the most reliable printer you can afford.  Do not get sucked into marketing, do not obsess over speeds and spec sheets, and do not overlook ease-of-use features.  Top brands give you excellent slicer profiles out of the box, and this is very highly recommended for beginners.  Top brands also regularly update slicing software.
 
 *How do I troubleshoot my printer?*  
-Patience and experience.  Narrow down the problem to:  mechanics/motion system, extrusion, temperature, calibration, and slicing.  Isolate and test one thing at a time.  I learned a lot by assembling my own printer.
+Patience and experience.  Try to narrow down the problem to:  mechanics/motion system, extrusion, temperature, calibration, and slicing.  Isolate and test one thing at a time.  I learned a lot by assembling my own printer.
 
 *How do I make custom designs?*  
-Features and software constantly change, but I appreciate this video by Maker's Muse that compares free CAD (computer aided design) software: [I tested them all](https://www.youtube.com/watch?v=J--QVhGheP4) and a follow-up video [Was I unfair to FreeCAD](https://www.youtube.com/watch?v=p8Pk1ayx6LQ).  Pick a CAD program, and bring enough patience to get over the learning curve.  I started and stopped several times in my journey.  I was only successful when I had an exciting project motivating me to continue.  I now prefer the technical capabilities of parametric modeling, and found the Product Design Online tutorials very helpful: [Learn Fusion 360 in 30 Days Playlist](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr).  
+Features and software constantly change, but I appreciate this video by Maker's Muse that compares free CAD (computer aided design) software: [I tested them all](https://www.youtube.com/watch?v=J--QVhGheP4) and a follow-up video [Was I unfair to FreeCAD](https://www.youtube.com/watch?v=p8Pk1ayx6LQ).  Pick a CAD program and bring enough patience to get over the learning curve.  I started and stopped several times in my journey.  I was only successful when I had an exciting project motivating me to continue.  I now prefer the technical capabilities of parametric modeling, and found the Product Design Online tutorials very helpful: [Learn Fusion 360 in 30 Days Playlist](https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr).  Beyond drawing simple shapes, you should be familiar with: construction lines, sketch constraints, offset planes, intersections and projections, extrude, rotate, and sweep.  You can do a lot with this assortment of tools.
 
 # *License*
 
