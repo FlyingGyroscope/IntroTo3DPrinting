@@ -19,9 +19,9 @@ Download the slides in the [Slides folder](Slides), or use the links to individu
 
 I made a lot of slides and grouped them into three class sessions.  However, I often use a small subset of slides in order to fit the presentation into an hour.
 
-- [Part 1](Slides/Part%201.pdf).  3D printing [process](Slides/Fundamentals%20Part%201%20Process.pdf), [limitations](Slides/Fundamentals%20Part%202%20Limitations.pdf), [dimensional accuracy](Slides/Fundamentals%20Part%203%20Dimensional%20Accuracy.pdf), and [advantages](Slides/Fundamentals%20Part%204%20Advantages.pdf).  This is the largest section and contains most of the core material.  Each topic is available separately as a "Fundamentals" mini lesson.
-- [Part 2](Slides/Part%202.pdf).  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.
-- [Part 3](Slides/Part%203.pdf).  A few Physics lessons that use 3D printers as a teaching tool.
+- [Part 1](Slides/Part_1.pdf).  3D printing [process](Slides/Fundamentals_Process.pdf), [limitations](Slides/Fundamentals_Limitations.pdf), [dimensional accuracy](Slides/Fundamentals_Dimensional_Accuracy.pdf), and [advantages](Slides/Fundamentals_Advantages.pdf).  This is the largest section and contains most of the core material.  Each topic is available separately as a "Fundamentals" mini lesson.
+- [Part 2](Slides/Part_2.pdf).  Real-world examples, design considerations, and critical thinking exercises that encourage readers to apply what they have learned.
+- [Part 3](Slides/Part_3.pdf).  A few Physics lessons that use 3D printers as a teaching tool.
 
 I published PDF files to maximize compatibility and limit file size, but they have a few limitations.  They do not support embedded videos or animated gifs, so you need to click on the hyperlinks to get the full experience.  Also, the PDF format shows the entire slide at once, which means you cannot pause after questions discuss and deliberate.
 
