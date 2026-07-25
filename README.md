@@ -7,6 +7,7 @@ This is a training guide for students learning to use 3D printers in a classroom
 If you need more help, start with documentation and support from the manufacturer.  There are also plenty of free guides and YouTube tutorials.
 - [Basics of 3D printing](https://www.prusa3d.com/page/basics-of-3d-printing-with-josef-prusa_490/) by Josef Prusa.
 - [Beginner 3D Printing Guide](https://www.youtube.com/watch?v=B84CgaPdixc) by CNC Kitchen (Stefan).
+- [3D Printing Mastery Playlist](https://www.youtube.com/playlist?list=PLd7YwDftJv6o) by Maker's Muse (Angus).
 - [Everything I know about 3D printing](https://www.youtube.com/watch?v=gPW_mitgosw) by Alexandre Chappel.
 
 # *What Kind of 3D Printing?*
